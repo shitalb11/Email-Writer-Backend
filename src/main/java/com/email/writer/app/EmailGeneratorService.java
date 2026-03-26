@@ -27,8 +27,7 @@ public class EmailGeneratorService {
         );
 
         //Do request and get response
-
-
+hjdejfefrbj
     }
 
     private String buildPrompt(EmailRequest emailRequest) {
