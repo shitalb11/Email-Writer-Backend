@@ -7,10 +7,11 @@ public class EmailRequest {
     private String emailContent;
     private String tone;
 
-    public CharSequence getTone() {
+    public String getTone() {
+        return tone;
     }
 
-    public char[] getEmailContent() {
-        return null;
+    public String getEmailContent() {
+        return emailContent;
     }
 }
